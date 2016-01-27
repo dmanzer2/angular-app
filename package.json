@@ -10,7 +10,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "http://github.com/madvas/gae-angular-material-starter"
+    "url": "https://github.com/dmanzer2/angular-app"
   },
   "devDependencies": {
     "bower": "~1",
