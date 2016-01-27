@@ -1,7 +1,8 @@
-<<<<<<< HEAD
-#GAE Angular Material Starter
+
+
+#David Manzer professional site using GAE Angular Material Starter
 #####Easiest way to start Google App Engine Angular Material project on Earth & Mars!
-As a base for this I've used starter projects [gae-init] and [MEANJS], so big thanks to them!
+Cloned using GAE Angular Material Starter
 
 This full stack uses following technologies:
 * Google App Engine
@@ -9,8 +10,6 @@ This full stack uses following technologies:
 * AngularJS
 * Angular Material
 * Gulp, Bower, npm
-
-######You can see live demo here: https://gae-angular-material-starter.appspot.com/
 
 ##What's implemented?
 * Everything about user authentication - signin, signup, forgot pass, reset pass ... and all the boring stuff is done for you :)
@@ -55,8 +54,6 @@ And that's it! Your next big thing is out!
 * Tests - hopefully, soon to be done
 * Docs/Tutorial - Although, docs doesn't exist yet, code is heavily commented, so you know what's going on :)
 
-##Contribute!
-Sure you can :)
 
 License
 --
@@ -69,6 +66,6 @@ MIT. Can't be more open, source ;)
 [gae-init]: https://github.com/gae-init/gae-init
 [meanjs]: https://github.com/meanjs/mean
 =======
+
 # angular-app
-Angular Material App for Professional work
->>>>>>> b5a9ad26a1dc7b69e6b11e4e1a5fbc822f4c27f1
+>>>>>>> Angular Material App for Professional work in the works
