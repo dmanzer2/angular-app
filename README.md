@@ -54,7 +54,6 @@ And that's it! Your next big thing is out!
 * Tests - hopefully, soon to be done
 * Docs/Tutorial - Although, docs doesn't exist yet, code is heavily commented, so you know what's going on :)
 
-
 License
 --
 MIT. Can't be more open, source ;)
@@ -65,7 +64,6 @@ MIT. Can't be more open, source ;)
 [virtualenv]: http://www.virtualenv.org/
 [gae-init]: https://github.com/gae-init/gae-init
 [meanjs]: https://github.com/meanjs/mean
-=======
 
 # angular-app
 >>>>>>> Angular Material App for Professional work in the works
