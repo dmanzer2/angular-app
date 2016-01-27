@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #GAE Angular Material Starter
 #####Easiest way to start Google App Engine Angular Material project on Earth & Mars!
 As a base for this I've used starter projects [gae-init] and [MEANJS], so big thanks to them!
@@ -67,3 +68,7 @@ MIT. Can't be more open, source ;)
 [virtualenv]: http://www.virtualenv.org/
 [gae-init]: https://github.com/gae-init/gae-init
 [meanjs]: https://github.com/meanjs/mean
+=======
+# angular-app
+Angular Material App for Professional work
+>>>>>>> b5a9ad26a1dc7b69e6b11e4e1a5fbc822f4c27f1
